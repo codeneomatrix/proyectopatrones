@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Codigoprogramacion</title>
+	<atom:link href="http://codigoprogramacion.com/feed" rel="self" type="application/rss+xml" />
+	<link>http://codigoprogramacion.com</link>
+	<description>un sitio para aprender a programar y tips de tecnologìa y desarrollo de software</description>
+	<lastBuildDate>Sat, 12 Jul 2014 17:36:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.10</generator>
+	<item>
+		<title>Reseña del silicon power Armor A80</title>
+		<link>http://codigoprogramacion.com/articulos/resena-del-silicon-power-armor-a80.html</link>
+		<comments>http://codigoprogramacion.com/articulos/resena-del-silicon-power-armor-a80.html#comments</comments>
+		<pubDate>Sat, 12 Jul 2014 17:34:58 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Articulos]]></category>
+		<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1485</guid>
+		<description><![CDATA[Si eres Geek o aficionado a la tecnología como un servidor, probablemente cuentes con diversos gadgets, entre los cuales uno que no te puede faltar es un disco duro externo de alta  capacidad, eso es precisamente lo que he querido reseñar el día de hoy,  ya que gracias a nuestros amigos de Silicon Power pudimos obtener]]></description>
+				<content:encoded><![CDATA[<p>Si eres Geek o aficionado a la tecnología como un servidor, probablemente cuentes con diversos gadgets, entre los cuales uno que no te puede faltar es un disco duro externo de alta  capacidad, eso es precisamente lo que he querido reseñar el día de hoy,  ya que gracias a nuestros amigos de <a title="Silicon Power" href="http://silicon-power.com" target="_blank">Silicon Power</a> pudimos obtener en nuestras manos uno de los discos duros mas resistentes en el mercado para el usuario Geek y tecnológico como tu y como yo.</p>
+<h3>Un poco acerca del A80</h3>
+<p><img class="alignnone" src="http://www.silicon-power.com/images/propics/SP320GBPHDA80S3B.jpg" alt="" width="400" height="400" /></p>
+<p>Como todos los Discos externos modernos, el A80 ya incluye varias funcionalidades como transferencia de datos por medio de USB 3.0, y por ende altas velocidades de transferencias de datos.</p>
+<p>Adicionalmente una de las cosas que hace a este disco duro tan especial es su resistencia. La protección que brinda su carcaza es sin duda resistente, aunque de acuerdo con el fabricante (Silicon Power) puede resistir no solo caídas de 122cm, alta presión, y estar bajo el agua por periodos hasta 30 minutos. Debo decir que su resistencia real va mucho mas aya de las que encontramos en las especificaciones del dispositivo. Naturalmente no podría recomendar someter el A80 a pruebas mas extremas, después de probar el disco, puedo asegurar, que efectivamente no tendríamos de que preocuparnos, si el disco sufriese golpes con fuerza superior a las encontradas en las especificaciones técnicas. Adicionalmente una característica poco común en los discos duros externos, se puede encontrar, y eso es que.. es posible abrir el disco duro solo usando destornilladores. Algo que veremos mas adelante.</p>
+<p>También se midió la velocidad de transferencia de datos un una iMac usando Speed Test, donde se logra apreciar que las velocidades de escritura son de aproximadamente 115mbps y de lectura 185mbps.</p>
+<p>Lo cual considerando que, para un disco duro externo de 7200rpm es algo bastante decente, dado que otros discos duros de velocidad similar podrían obtener resultados similares o incluso menores en una interfaz SATA directamente en una PC, lo cual habla de que la velocidad soportada en transferencia por medio del USB 3.0 esta muy bien aprovechada.</p>
+<p><a href="http://codigoprogramacion.com/wp-content/uploads/2014/07/Screen-Shot-2014-06-16-at-8.56.55-AM.png"><img class="alignnone wp-image-1488" src="http://codigoprogramacion.com/wp-content/uploads/2014/07/Screen-Shot-2014-06-16-at-8.56.55-AM.png" alt="Speed test A80" width="660" height="615" /></a></p>
+<h3>Un poco mas a fondo.. ¿Como es por dentro?</h3>
+<p>Naturalmente, soy una persona muy curiosa, y como tal decidí aventurarme a abrir el A80, dado que como se menciono previamente, este disco cuenta con una característica la cual es que se puede desarmar. Por ello decidí realizar un video para demostrarlo, el cual les presento a continuación.</p>
+<p><strong>Aviso: Desarmar el disco duro y especialmente remover ciertos elementos puede anular la garantía, de hacerlo es bajo su propio riesgo</strong><br />
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/xUH9qUHZ8oE?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/xUH9qUHZ8oE?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<h3>Conclusión</h3>
+<p>Para finalizar esta reseña, tras ver no solo la resistencia, pero adicionalmente como es, y también su rendimiento, debo decir que es un disco duro que sin duda vale la pena. Incluso <strong><em>bajo nuestro propio riesgo</em> </strong>podríamos intercambiar el disco duro y reutilizar la carcaza para proteger cualquier otro disco duro de 2.5 pulgadas que gustemos( ver vídeo).Dicho esto, no me queda más que categorizarlo como un gadget que sin duda vale la pena tener.</p>
+<h6> ¿Donde conseguirlo?</h6>
+<p>Si quieres conseguir este disco duro te recomiendo visitar los siguientes enlaces.</p>
+<p>Amazon: Varios países<br />
+<a href="http://www.amazon.com/Silicon-Power-2-5-Inch-Military-SP010TBPHDA80S3B/dp/B005EWTL7C" target="_blank">http://www.amazon.com/Silicon-Power-2-5-Inch-Military-SP010TBPHDA80S3B/dp/B005EWTL7C </a></p>
+<p>México: a través del portal Linio.com<br />
+<a href="http://www.linio.com.mx/Disco-Duro-Portatil-Silicon-Power-Armor-A80-1TB-Azul-271924.html">http://www.linio.com.mx/Disco-Duro-Portatil-Silicon-Power-Armor-A80-1TB-Azul-271924.html</a></p>
+<p>México: a través Zegucom.com<br />
+<a href="https://www.zegucom.com.mx/index.php?mod=ficha&amp;upc=886576012834">https://www.zegucom.com.mx/index.php?mod=ficha&amp;upc=886576012834</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/articulos/resena-del-silicon-power-armor-a80.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Prueba quicksort vs Recorrido BST</title>
+		<link>http://codigoprogramacion.com/codigo-fuente/prueba-quicksort-vs-recorrido-bst.html</link>
+		<comments>http://codigoprogramacion.com/codigo-fuente/prueba-quicksort-vs-recorrido-bst.html#comments</comments>
+		<pubDate>Tue, 06 May 2014 19:50:37 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Codigo Fuente]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1482</guid>
+		<description><![CDATA[Esta es la prueba que estaba realizando para el video tutorial, aqui les dejo el codigo fuente: def qsort(list): if list == []: return [] else: pivot = list[0] lesser = qsort([x for x in list[1:] if x &#60; pivot]) greater = qsort([x for x in list[1:] if x &#62;= pivot]) return lesser + [pivot]]]></description>
+				<content:encoded><![CDATA[<p>Esta es la prueba que estaba realizando para el video tutorial, aqui les dejo el codigo fuente:</p>
+<pre class="brush:python">def qsort(list):
+
+    if list == []:
+        return []
+    else:
+        pivot = list[0]
+        lesser = qsort([x for x in list[1:] if x &lt; pivot])
+        greater = qsort([x for x in list[1:] if x &gt;= pivot])
+        return lesser + [pivot] + greater
+
+class Nodo(object):
+
+    def __init__(self,value):
+        self.k = value
+        self.izq = None
+        self.der = None
+        self.root = None
+
+class BST(object):
+
+    def __init__(self):
+        self.root = None
+
+    def insert(self,valor):
+
+        nodo = Nodo(valor)
+
+        if self.root is None:
+
+            self.root = nodo
+
+        else:
+
+            temp = self.root
+
+            while temp is not None:
+
+                nodo.root = temp.root
+
+                if(nodo.k &gt;= temp.k):
+                    if temp.der is None:
+                        temp.der = nodo
+                        break
+                    else:
+                        temp = temp.der
+                else:
+                    if temp.izq is None:
+                        temp.izq = nodo
+                        break
+                    else:
+                        temp = temp.izq
+
+    def itw(self,nodo):
+        if nodo is not None:
+            self.itw(nodo.izq)
+            print nodo.k
+            self.itw(nodo.der)
+
+import sys
+import time
+
+N = int(sys.argv[1])
+numeros = []
+bst = BST()
+
+for i in xrange(N):
+    #metodo 1, lista y usar quicksort nativo
+    numero = long(raw_input())
+    numeros += [numero]
+    bst.insert(numero)
+
+start = time.time() #(datetime.datetime.now().time())
+numeros.sort()
+#numeros = qsort(numeros)
+#for el in numeros:
+#  print el
+print numeros
+#bst.itw(bst.root)
+
+end = time.time()#(datetime.datetime.now().time())
+
+print "Time elapsed on sorting:",(end - start)</pre>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/codigo-fuente/prueba-quicksort-vs-recorrido-bst.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Reseña USB 3.0 Silicon Power Marvel M60</title>
+		<link>http://codigoprogramacion.com/articulos/resena-usb-3-0-silicon-power-marvel-m60.html</link>
+		<comments>http://codigoprogramacion.com/articulos/resena-usb-3-0-silicon-power-marvel-m60.html#comments</comments>
+		<pubDate>Fri, 28 Mar 2014 21:08:22 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Articulos]]></category>
+		<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1477</guid>
+		<description><![CDATA[El día de hoy quería realizar una reseña del dispositivo usb de Silicon Power, el Marvel M60.  Ya todos muy probablemente conocemos que son las usb y para sirven, así que me ahorrare esta parte y me iré directo a compartirles las pruebas que hice con la Marvel M60. Prueba de rendimiento con SpeedTest La]]></description>
+				<content:encoded><![CDATA[<p>El día de hoy quería realizar una reseña del dispositivo usb de Silicon Power, el Marvel M60.</p>
+<p><img class="alignleft" alt="" src="http://limcorp.net/images/2011/silicon-power-marvel-m60-drive/marvel-m60-drive.jpg" width="500" height="305" /> Ya todos muy probablemente conocemos que son las usb y para sirven, así que me ahorrare esta parte y me iré directo a compartirles las pruebas que hice con la Marvel M60.</p>
+<h3>Prueba de rendimiento con SpeedTest</h3>
+<p>La primera prueba fue ver que tan rapidas son las velocidades de escritura y lectura, por lo que utilizando SpeedTest, se midieron las velocidades que llegan a superar los 70mbps en escritura y mas de 180mpbs en velocidades de lectura.</p>
+<p><a href="http://codigoprogramacion.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-21-at-9.21.53-AM.png"><img class="alignnone size-medium wp-image-1478" alt="Screen Shot 2014-03-21 at 9.21.53 AM" src="http://codigoprogramacion.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-21-at-9.21.53-AM-300x294.png" width="300" height="294" /></a></p>
+<p>&nbsp;</p>
+<p>Como podemos apreciar para ser un dispositivo USB las velocidades son sorprendentes. Las velocidades son comparables a disco duro tradicional de 5400rpm en cuanto a velocidades de escritura, y supera en velocidad de lectura a discos de 7200rpm, lo que permite que este usb pueda ser utilizado como Live Usb para bootear sistemas operativos como Linux.</p>
+<h3> Prueba, crear usb Linux Live con M60 e iniciar Ubuntu linux.</h3>
+<p>Como prueba de fuego nada mejor que instalar el conocido sistema operativo Ubuntu en el Marvel M60 y probarlo en un puerto USB 3.0 de una iMac.</p>
+<p>Aunque el proceso de bootear desde le usb fue largo debido al inicio natural de Mac, una vez entramos a cargar Ubuntu todo avanza agilmente.</p>
+<p>A continuación una prueba en video:</p>
+<p><object width="560" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="//www.youtube.com/v/9sh78s8L4MY?version=3&amp;hl=es_ES" /><param name="allowfullscreen" value="true" /><embed width="560" height="315" type="application/x-shockwave-flash" src="//www.youtube.com/v/9sh78s8L4MY?version=3&amp;hl=es_ES" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+<h3>¿Donde conseguirlo en México?</h3>
+<p>Actualmente Silicon Power es una empresa con mayor presencia en el mercado Norte Americano, Europeo y Asiatico, aun así esta entrando a Latino America para hacernos llegar estos productos. Aquí les dejo algunos enlaces de lugares donde pueden conseguir USB 3.0 de Silicon Power.</p>
+<p>Zegucom.mx (este se orienta un poco mas a mayoristas, pero esta abierto a todos y cuenta con tienda en línea)<a dir="ltr" title="https://www.zegucom.com.mx" href="https://www.zegucom.com.mx/" target="_blank" rel="nofollow">https://www.zegucom.com.mx</a></p>
+<p>All Memory (distribuyen una buena variedad de USB, 3.0)<a dir="ltr" title="http://www.allmemory.com.mx/index.php/sucursales" href="http://www.allmemory.com.mx/index.php/sucursales" target="_blank" rel="nofollow">http://www.allmemory.com.mx/index.php&#8230;</a><br />
+DICO Tech<br />
+Plaza de la tecnología (casi todas las sucursales nacionales, mas en DF y GDL)<br />
+Plaza DF y de la computación (distrito Federal)<br />
+Farmacias Guadalajara<br />
+Office Depot (*algunas sucursales)</p>
+<p>Adicionalmente les dejo las redes sociales de Silicon Power para que puedan visitarlos y estar al tanto de sus productos en latino américa.</p>
+<p>Donde encontrar a silicon power?<br />
+<a dir="ltr" title="https://www.facebook.com/SiliconPowerLatinoAmerica" href="https://www.facebook.com/SiliconPowerLatinoAmerica" target="_blank" rel="nofollow">https://www.facebook.com/SiliconPower&#8230;</a><br />
+<a dir="ltr" title="http://www.silicon-power.com/index.php?sc=b&amp;W=1280" href="http://www.silicon-power.com/index.php?sc=b&amp;W=1280" target="_blank" rel="nofollow">http://www.silicon-power.com/index.ph&#8230;</a><span style="font-family: Arial; font-size: small;"><a href="https://www.facebook.com/SiliconPowerLatinoAmerica" target="_blank"> </a></span></p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/articulos/resena-usb-3-0-silicon-power-marvel-m60.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Como hacer un menu horizontal con html5 y css3</title>
+		<link>http://codigoprogramacion.com/cursos/html/como-hacer-un-menu-horizontal-con-html5-y-css3.html</link>
+		<comments>http://codigoprogramacion.com/cursos/html/como-hacer-un-menu-horizontal-con-html5-y-css3.html#comments</comments>
+		<pubDate>Mon, 14 Oct 2013 13:18:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[HTML]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[css3]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[menu]]></category>
+		<category><![CDATA[menu horizontal]]></category>
+		<category><![CDATA[tutorial]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1468</guid>
+		<description><![CDATA[En esta practica les traigo como hacer un menu horizontal utilizando html5 y css3 naturalmente, a continuación el video tutorial  y posteriormente el codigo de la practica para que puedan replicarlo en sus casas. Video tutorial Codigo CSS /*Body*/ body { margin:0px; padding-top:5px; } #main_container { width:90%; margin-left:5%; padding-top:5px; padding-bottom:5px; float:left; border: 3px outset; }]]></description>
+				<content:encoded><![CDATA[<p>En esta practica les traigo como hacer un menu horizontal utilizando html5 y css3 naturalmente, a continuación el video tutorial  y posteriormente el codigo de la practica para que puedan replicarlo en sus casas.</p>
+<h3>Video tutorial</h3>
+<p><object width="480" height="360" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="//www.youtube.com/v/97SGiyTSAaQ?hl=es_ES&amp;version=3" /><param name="allowfullscreen" value="true" /><embed width="480" height="360" type="application/x-shockwave-flash" src="//www.youtube.com/v/97SGiyTSAaQ?hl=es_ES&amp;version=3" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+<h3>Codigo CSS</h3>
+<pre class="brush:css">/*Body*/
+body
+{
+	margin:0px;
+	padding-top:5px;
+}
+
+#main_container
+{
+	width:90%;
+	margin-left:5%;
+	padding-top:5px;
+	padding-bottom:5px;
+	float:left;
+	border: 3px outset;
+}
+
+/*Content*/
+
+.content{
+	width:90%;
+	margin-top:5px;
+	margin-left:5%;
+	padding-bottom:50px;
+	background:#ffffff;
+	border: 1px dashed;
+	height: auto;
+	float:left;
+}
+
+.content article
+{
+	padding: 3%;
+
+}
+
+.content article h2
+{
+
+}
+
+/*Header*/
+
+.header
+{
+	width:90%;
+	margin-top:5px;
+	margin-left:5%;
+	background:#ffffff;
+	border: 3px outset;
+	height: 200px;
+	float:left;
+}
+
+/*Menu */
+.top_menu ul
+{
+	list-style:none;
+	float:left;
+	border: 1px dashed;
+	padding: 2%;
+	width:95%;
+}
+
+.top_menu ul li
+{
+	float:left;
+	margin-right:20px;
+	margin-bottom:10px;
+	background: #ff812d;
+	padding:5px;
+	border-radius: 15%;
+}
+.top_menu ul li a
+{
+	color: #FFFFFF;
+	text-decoration:none;
+}
+.top_menu ul li a:hover
+{
+	color: blue;
+}
+
+/*Footer*/
+.footer
+{
+	width:90%;
+	margin-top:5px;
+	margin-left:5%;
+	background:#ffffff;
+	border: 3px outset;
+	height: 110px;
+	float:left;
+}
+
+.footer_msg
+{
+	margin-top: 40px;
+float: left;
+margin-left: 5%;
+font-size: 0.8em;
+color: rgb(126, 126, 126);
+}</pre>
+<h3> Codigo html:</h3>
+<pre class="brush:php">&lt;!DOCTYPE  html&gt;
+&lt;html&gt;
+&lt;head&gt;
+	&lt;meta charset="UTF-8"&gt;
+	&lt;title&gt;Codigoprogramacion.com&lt;/title&gt;
+	&lt;link rel="stylesheet" type="text/css" href="style.css" /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;section id="main_container"&gt;
+		&lt;header class="header"&gt;
+			&lt;h1&gt;Tutoriales - Html/Css&lt;/h1&gt;
+			&lt;nav class="top_menu"&gt;
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Item 1&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Item 2&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Item 3&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Item 1&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Item 2&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Item 3&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/nav&gt;
+		&lt;/header&gt;
+
+		&lt;section class="content"&gt;
+			&lt;article&gt;
+				&lt;h2&gt;Lorem Ipsum&lt;/h2&gt;
+				&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet scelerisque arcu, vitae mattis turpis.
+				 Cras dictum nisl non vulputate mollis. Vestibulum in elit vel sapien venenatis aliquam tincidunt nec arcu. 
+				Pellentesque non consequat felis, ac accumsan tellus. Donec sem magna, sagittis nec erat fringilla, commodo aliquet massa.
+				Mauris risus lectus, ornare vel venenatis a, rutrum at augue. Nam eget turpis at metus commodo dignissim sit amet id lectus. 
+				Aliquam consectetur sem eget sem vehicula, nec laoreet felis pellentesque. Vivamus turpis ipsum, rutrum facilisis est semper,
+				egestas congue nibh. Maecenas sodales leo sed quam lacinia luctus. Aliquam scelerisque rutrum nisi, ut tincidunt lorem pharetra in.
+				 Curabitur malesuada dolor ac accumsan ornare. Curabitur pellentesque gravida ipsum, at elementum tortor convallis nec. Aenean
+				  condimentum, nunc ac tincidunt tristique, odio ante euismod ligula, et ullamcorper mauris nisi ut ligula. Vivamus faucibus mattis
+				   turpis ac aliquet. Nam elementum velit ut lectus vestibulum, eu pretium turpis vehicula.
+				&lt;/p&gt;
+			&lt;/article&gt;
+		&lt;/section&gt;
+		&lt;footer class="footer"&gt;
+			&lt;span class="footer_msg"&gt; Este es el pie de página - codigoprogramacion.com&lt;/span&gt;
+		&lt;/footer&gt;
+	&lt;/section&gt;
+&lt;/body&gt;	
+&lt;/html&gt;</pre>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/cursos/html/como-hacer-un-menu-horizontal-con-html5-y-css3.html/feed</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Introducción a JSON, sintaxis y ejemplos</title>
+		<link>http://codigoprogramacion.com/cursos/javascript/introduccion-a-json-sintaxis-y-ejemplos.html</link>
+		<comments>http://codigoprogramacion.com/cursos/javascript/introduccion-a-json-sintaxis-y-ejemplos.html#comments</comments>
+		<pubDate>Wed, 02 Oct 2013 02:44:58 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[codigo fuente]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[JSON]]></category>
+		<category><![CDATA[sintaxis]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1460</guid>
+		<description><![CDATA[JSON es una notación de objetos basada en JavaScript, utiliza una sintaxis que nos permite crear objetos de manera rapida y simple, estos objetos pueden ser utilizados de la manera que queramos y la notación se utiliza muy comúnmente para crear servicios REST, objetos, e incluso fue adoptada por algunas bases de datos como lo]]></description>
+				<content:encoded><![CDATA[<p>JSON es una notación de objetos basada en JavaScript, utiliza una sintaxis que nos permite crear objetos de manera rapida y simple, estos objetos pueden ser utilizados de la manera que queramos y la notación se utiliza muy comúnmente para crear servicios REST, objetos, e incluso fue adoptada por algunas bases de datos como lo es MongoDB. A continuación el siguiente video tutorial demuestra una introducción. Codigo ejemplo puedes encontrarlo posteriormente.</p>
+<h3><strong>Sintaxis de JSON</strong></h3>
+<p>Para escribir JSON debemos tener en cuenta lo siguiente:<br />
+La creación de los objetos JSON implica escribir datos, para ello:</p>
+<ul>
+<li>Losdatos estan separados por comas.</li>
+<li>los datos se escriban en pares, siendo primero el nombre o atributo del mismo y luego el valor del dato.</li>
+<li>Los objetos JSON estan rodeados por llaves &#8220;{}&#8221;</li>
+<li>Llaves cuadradas [] guardan arreglos, incluyendo otros objetos JSON</li>
+</ul>
+<p>Ejemplo de un objeto JSON que guarda un usuario y password:</p>
+<pre class="brush:javascript">var objetoJSON = {"usuario":"user","password":"123456"};</pre>
+<p>&nbsp;</p>
+<p><strong>Video tutorial:</strong></p>
+<p><iframe src="//www.youtube.com/embed/ScU8g4ePR9Y" height="315" width="420" allowfullscreen="" frameborder="0"></iframe><br />
+<strong>Codigo fuente:</strong></p>
+<pre class="brush:php">&lt;!DOCTYPE  html&gt;
+&lt;html&gt;
+&lt;head&gt;
+	&lt;meta charset="UTF-8"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;section id="tests"&gt;
+		&lt;h1&gt;Tutorial JSON (JavaScript Object Notation)&lt;/h1&gt;
+		&lt;div id="content" &gt;
+
+		&lt;/div&gt;
+	&lt;/section&gt;
+	&lt;script type="text/javascript"&gt;
+
+	var objetos = {"Personas":[
+			{"nombre":"Jorge","edad":23},
+			{"nombre":"Carlos","edad":17}
+		]};
+
+	document.getElementById('content').innerHTML = objetos.Personas[1].nombre ;
+	/*Declarar un objeto JSON con una funcion en un atributo
+	 notese el uso de "this" que hace referencia a el objeto en sí, es decir a persona*/
+	var persona = {"name":"Jorge","edad":23,
+				  "avisar":function(){alert("Hola soy "+this.name);}
+				 };
+
+	persona.avisar();
+	&lt;/script&gt;
+&lt;/body&gt;	
+&lt;/html&gt;</pre>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/cursos/javascript/introduccion-a-json-sintaxis-y-ejemplos.html/feed</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Pro tips para crear Clases en Java</title>
+		<link>http://codigoprogramacion.com/cursos/java/pro-tips-para-crear-clases-en-java.html</link>
+		<comments>http://codigoprogramacion.com/cursos/java/pro-tips-para-crear-clases-en-java.html#comments</comments>
+		<pubDate>Fri, 13 Sep 2013 16:51:17 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[clases]]></category>
+		<category><![CDATA[clases en java]]></category>
+		<category><![CDATA[constantes]]></category>
+		<category><![CDATA[constructores]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[matematica]]></category>
+		<category><![CDATA[orientada a objetos]]></category>
+		<category><![CDATA[POO]]></category>
+		<category><![CDATA[programacion]]></category>
+		<category><![CDATA[variables]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1456</guid>
+		<description><![CDATA[¡Estimados lectores! En esta ocasión quiero compartir con ustedes algunos tips y recomendaciones para mejorar su estilo de programación orientada a objetos especialmente cuando escribimos nuestras propias clases para diseñar objetos que cumplan con los requisitos de cualquier programa, esto quiere decir no solo en Java pero también otro lenguaje que maneje conceptos de POO.]]></description>
+				<content:encoded><![CDATA[<p>¡Estimados lectores! En esta ocasión quiero compartir con ustedes algunos tips y recomendaciones para mejorar su estilo de programación orientada a objetos especialmente cuando escribimos nuestras propias clases para diseñar objetos que cumplan con los requisitos de cualquier programa, esto quiere decir no solo en Java pero también otro lenguaje que maneje conceptos de POO.</p>
+<p>Algunos de estos &#8220;Pro tips para crear clases&#8221; son nada mas y nada menos que algunas pautas muy sencillas que hay que seguir para hacer código de mejor calidad, mas legible y estandarizado. Es así como se practica en muchas empresas por cualquier programador profesional. A continuación algunos de los puntos mas importantes para tomar en cuenta y un video explicando como se tiene que hacer.</p>
+<ol>
+<li>Al crear una clase debemos definir las variables de la misma como privadas, incluso pueden ser protegidas, esto para previnir que se puedan acceder desde otras clases y obligar a el desarrollador a usar getters y setters como debe de ser.</li>
+<li>Evitar el uso de &#8220;numeros magicos&#8221;, es decir que cuando sea necesario realizar alguna operación matematica o algún calculo en nuestros metodos, no debemos utilizar numeros naturales o enteros directamente incluidos en las operaciones, debemos crear constantes estaticas y utilizar las mismas en nuestra clase.</li>
+<li>Crear constructores multiples, de manera que podamos crear objetos a partir de nuestra clase con distintas opciones, siendo sin parametros definidos, o bien utilizando parametros para construirlos con valores definidos en los parametros.</li>
+<li>Crear nuestro propio metodo toString(), esto para poder representar nuestros objetos de manera totalmente personalizada en formato de cadena de texto.</li>
+</ol>
+<p>Estos fueron solo algunos de los tips, a continuación el video.</p>
+<h2>Video de Tips para crear clases en Java</h2>
+<p><object width="480" height="360" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="//www.youtube.com/v/_YdZPEYikqo?version=3&amp;hl=es_ES" /><param name="allowfullscreen" value="true" /><embed width="480" height="360" type="application/x-shockwave-flash" src="//www.youtube.com/v/_YdZPEYikqo?version=3&amp;hl=es_ES" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+<p>Estimados, eso es todo por este articulo y tutorial, espero que les haya sido de utilidad y puedan aplicar algunos conceptos sencillos pero muy útiles cada vez que creen clases en Java.</p>
+<p>Recuerda que puedes comentar tus opiniones, criticas o dudas al respecto. Comentar es gratis.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/cursos/java/pro-tips-para-crear-clases-en-java.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>K9 Web Protection &#8211; Filtra contenido web fácil y gratis !</title>
+		<link>http://codigoprogramacion.com/articulos/novatos/k9-web-protection-filtra-contenido-web-facil-y-gratis.html</link>
+		<comments>http://codigoprogramacion.com/articulos/novatos/k9-web-protection-filtra-contenido-web-facil-y-gratis.html#comments</comments>
+		<pubDate>Mon, 19 Aug 2013 20:42:07 +0000</pubDate>
+		<dc:creator><![CDATA[Casapex]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Novatos]]></category>
+		<category><![CDATA[bill gates]]></category>
+		<category><![CDATA[borra]]></category>
+		<category><![CDATA[compatibilidad]]></category>
+		<category><![CDATA[los piratas]]></category>
+		<category><![CDATA[navegador]]></category>
+		<category><![CDATA[nube]]></category>
+		<category><![CDATA[silicon valley]]></category>
+		<category><![CDATA[steve jobs]]></category>
+		<category><![CDATA[web protection]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1410</guid>
+		<description><![CDATA[“La información es poder”, decía Bill Gates(o Steve Jobs si viste los piratas de silicon valley), pero como estar seguros de que lo es toda? , Y más aún cuando un niño está frente al computador (casa, escuela) conectado a la nube ? , para ser más exacto frente a contenidos relacionados con violencia, drogas,]]></description>
+				<content:encoded><![CDATA[<p>“La información es poder”, decía Bill Gates(o Steve Jobs si viste los piratas de silicon valley), pero como estar seguros de que lo es toda? , Y más aún cuando un niño está frente al computador (casa, escuela) conectado a la nube ? , para ser más exacto frente a contenidos relacionados con violencia, drogas, etc.</p>
+<p><img alt="K9" src="https://lh5.googleusercontent.com/-4sohfMEwTJk/Ugf8s03WuJI/AAAAAAAABTs/VdTTFLveK68/s268/K9X.png" /></p>
+<p>Actualmente existen miles de formas de poder filtrar y restringir este tipo de contenidos en la web, para ello me gustaría compartir una herramienta que realmente me ha llamado la atención en estos días.<br />
+Se llama <strong>K9 Web Protection</strong> , puedes descargarlo en el siguiente link:</p>
+<p><a href="http://www1.k9webprotection.com/">www1.k9webprotection.com</a></p>
+<p><img alt="K92" src="https://lh6.googleusercontent.com/-QONQ78Zl9ro/Ugf8sDPGXFI/AAAAAAAABTg/vVDIB9axDgU/s764/K92.png" /></p>
+<p>Entre sus características:</p>
+<p>*Es gratuito(it&#8217;s free).</p>
+<p>*Posee un alto nivel de seguridad(uso de contraseña y correo de referencia para advertencias).</p>
+<p>*Filtra y restringe acceso a paginas que asigne el usuario(Black list).</p>
+<p><img alt="K93" src="https://lh5.googleusercontent.com/-mJL7tPvZaRE/Ugf8sqFDKcI/AAAAAAAABTo/5WCvBs-z3lg/s800/K95.png" /></p>
+<p>*Restringe acceso de contenido web por categorías(Redes sociales,juegos online,etc)</p>
+<p>* Monitorea y reporta a que paginas o categoría de paginas a las que accede el usuario (incluso cuando este borra el historial del navegador por completo).</p>
+<p><img alt="K94" src="https://lh3.googleusercontent.com/-iUVfTPCV2JM/Ugf8r7iAaOI/AAAAAAAABTc/7pG6BkHO9Eg/s765/K91.png" /></p>
+<p>* Compatibilidad(Windows XP/Windows Vista/Windows 7/Mac.)</p>
+<p>Bueno espero que les sirva,aunque mi pequeña hermana va a matarme cuando lea esto.</p>
+<p>…Un saludo desde Perú,hasta la próxima <img src="http://codigoprogramacion.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p>
+<p>xCarlos</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/articulos/novatos/k9-web-protection-filtra-contenido-web-facil-y-gratis.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Una introducción a Automatas finitos deterministicos (Maquinas de estado)</title>
+		<link>http://codigoprogramacion.com/programacion/una-introduccion-a-automatas-finitos-deterministicos-maquinas-de-estado.html</link>
+		<comments>http://codigoprogramacion.com/programacion/una-introduccion-a-automatas-finitos-deterministicos-maquinas-de-estado.html#comments</comments>
+		<pubDate>Thu, 11 Jul 2013 00:21:31 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Programacion]]></category>
+		<category><![CDATA[automata finito]]></category>
+		<category><![CDATA[automatas finitos]]></category>
+		<category><![CDATA[binarios]]></category>
+		<category><![CDATA[implementarse]]></category>
+		<category><![CDATA[lenguajes]]></category>
+		<category><![CDATA[sin embargo]]></category>
+		<category><![CDATA[valido]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1376</guid>
+		<description><![CDATA[En este tutorial haremos una pequeña introducción a los automatas finitos deterministicos, esto quiere decir que hablamos de maquinas de estado donde los estados siguientes a un estado actual estan predeterminados sin equivocación alguna. Para ello he preparado el siguiente video que espero les pueda servir para comprenderlo de una manera sencilla. Codigo fuente (ejemplo]]></description>
+				<content:encoded><![CDATA[<p>En este tutorial haremos una pequeña introducción a los automatas finitos deterministicos, esto quiere decir que hablamos de maquinas de estado donde los estados siguientes a un estado actual estan predeterminados sin equivocación alguna. Para ello he preparado el siguiente video que espero les pueda servir para comprenderlo de una manera sencilla.<br />
+<object width="420" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="//www.youtube-nocookie.com/v/zoKb3wNXilM?hl=es_ES&amp;version=3" /><param name="allowfullscreen" value="true" /><embed width="420" height="315" type="application/x-shockwave-flash" src="//www.youtube-nocookie.com/v/zoKb3wNXilM?hl=es_ES&amp;version=3" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+<h3>Codigo fuente (ejemplo de automata finito):</h3>
+<p>Implementación del siguiente automata para evaluar cadenas de numeros binarios (1 y 0 ).</p>
+<p><a href="http://codigoprogramacion.com/wp-content/uploads/2013/07/Screen-Shot-2013-07-10-at-18.37.07.png"><img class="alignnone size-full wp-image-1377" alt="Screen Shot 2013-07-10 at 18.37.07" src="http://codigoprogramacion.com/wp-content/uploads/2013/07/Screen-Shot-2013-07-10-at-18.37.07.png" width="272" height="155" /></a><br />
+El siguiente codigo esta en Java, sin embargo el concepto deberia ser valido para implementarse en otros lenguajes.</p>
+<pre class="brush:java">public class Main {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+		int[] input = {1,0,0,0,0};
+		int inicio = 1;
+		int finalizar = 1;
+		int actual = inicio;
+
+		boolean fin = false;
+
+		int contador = 0;
+		while(fin==false)
+		{
+			if(contador &gt; input.length-1)
+			{
+				fin = true;
+				break;
+			}
+			if(actual==1)
+			{
+				if(input[contador]==1)
+				{
+					actual=1;
+				}
+				if(input[contador]==0)
+				{
+					actual=2;
+				}
+				contador++;
+				continue;
+			}
+			if(actual==2)
+			{
+				if(input[contador]==1)
+				{
+					actual=2;
+				}
+				if(input[contador]==0)
+				{
+					actual=1;
+				}
+				contador++;
+				continue;
+			}
+		}
+
+		if(actual==finalizar)
+		{
+			System.out.println("La cadena es correcta");
+		}
+		else
+		{
+			System.out.println("La cadena es incorrecta");
+		}
+
+	}
+
+}</pre>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/programacion/una-introduccion-a-automatas-finitos-deterministicos-maquinas-de-estado.html/feed</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>¿Como ser un hacker? hablemos de hacking!</title>
+		<link>http://codigoprogramacion.com/inicio/como-ser-un-hacker-hablemos-de-hacking.html</link>
+		<comments>http://codigoprogramacion.com/inicio/como-ser-un-hacker-hablemos-de-hacking.html#comments</comments>
+		<pubDate>Fri, 31 May 2013 04:48:36 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[backtrack]]></category>
+		<category><![CDATA[como]]></category>
+		<category><![CDATA[como ser hacker]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[owasp]]></category>
+		<category><![CDATA[ser]]></category>
+		<category><![CDATA[vlog]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1345</guid>
+		<description><![CDATA[Hola que tal amigos! Bueno aqui blogeando de nuevo, y veran les cuento que el tema de como ser un hacker siempre es controversial, muy debatido y popular. Dado que me llegan constantemente dudas de por donde comenzar y que hay que hacer, decidí hacer un nuevo video del proyecto de &#8220;Hablemos Hacking&#8221;, basicamente es]]></description>
+				<content:encoded><![CDATA[<p>Hola que tal amigos!<br />
+Bueno aqui blogeando de nuevo, y veran les cuento que el tema de como ser un hacker siempre es controversial, muy debatido y popular.<br />
+Dado que me llegan constantemente dudas de por donde comenzar y que hay que hacer, decidí hacer un nuevo video del proyecto de &#8220;Hablemos Hacking&#8221;, basicamente es mi vlog tecnico especializado para hablar de temas relacionados con hacking, así que espero que este video les guste y que cubrir algunas dudas.<br />
+<object width="560" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube-nocookie.com/v/w7dWkGCFetg?hl=es_ES&amp;version=3" /><param name="allowfullscreen" value="true" /><embed width="560" height="315" type="application/x-shockwave-flash" src="http://www.youtube-nocookie.com/v/w7dWkGCFetg?hl=es_ES&amp;version=3" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object><br />
+Algunos enlaces para darse una idea son:<br />
+top 10 vulnerabilidades 2013 owasp:<br />
+<a dir="ltr" title="https://www.owasp.org/index.php/Top_10_2013-T10" href="https://www.owasp.org/index.php/Top_10_2013-T10" target="_blank" rel="nofollow">https://www.owasp.org/index.php/Top_1&#8230;</a></p>
+<p>OWASP:<br />
+<a dir="ltr" title="https://www.owasp.org/" href="https://www.owasp.org/" target="_blank" rel="nofollow">https://www.owasp.org/</a></p>
+<p>LINUX BACKTRACK: distribución linux orientada a pentesting y seguridad<br />
+<a dir="ltr" title="http://www.backtrack-linux.org/" href="http://www.backtrack-linux.org/" target="_blank" rel="nofollow">http://www.backtrack-linux.org/</a></p>
+<p>Y bueno amigos me despido y espero que les haya gustado este video.<br />
+No olviden dejar sus comentarios, suscribirse a mi canal de youtube para estar pendiente de mas videos como este y mucho mas!<br />
+Saludos!<br />
+-Jorge</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/inicio/como-ser-un-hacker-hablemos-de-hacking.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>SqlDbx,&#8221; La llave maestra del DBA &#8220;</title>
+		<link>http://codigoprogramacion.com/articulos/programacionweb/sqldbx-la-llave-maestra-del-dba.html</link>
+		<comments>http://codigoprogramacion.com/articulos/programacionweb/sqldbx-la-llave-maestra-del-dba.html#comments</comments>
+		<pubDate>Mon, 20 May 2013 22:35:53 +0000</pubDate>
+		<dc:creator><![CDATA[Casapex]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Programación web]]></category>
+		<category><![CDATA[exporta]]></category>
+		<category><![CDATA[facil]]></category>
+		<category><![CDATA[herramienta]]></category>
+		<category><![CDATA[hola]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[script variables]]></category>
+		<category><![CDATA[scripts]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1073</guid>
+		<description><![CDATA[Hola a todos,hace un par de meses, en el trabajo,tenia problemas para exportar datos de Sql Server a Excel,un amigo al verme preocupado,me recomendó instalar el SqlDbx,desde ese entonces no dejo de usarlo, y porque?, aquí les dejo algunos detalles que les servirá . * Es una herramienta gratuita y facil de instalar(http://www.sqldbx.com/). * Funciona]]></description>
+				<content:encoded><![CDATA[<p><img alt="sqldbx" src="https://lh5.googleusercontent.com/-8QJfcpaPRms/UZFTzRewBrI/AAAAAAAABKk/eWzPoSw7zyA/w316-h90-no/SqlDbx_logo.jpg" /></p>
+<p>Hola a todos,hace un par de meses, en el trabajo,tenia problemas para exportar datos de Sql Server a Excel,un amigo al verme preocupado,me recomendó instalar el SqlDbx,desde ese entonces no dejo de usarlo, y porque?, aquí les dejo algunos detalles que les servirá .</p>
+<p>* Es una herramienta <strong>gratuita</strong> y facil de instalar(http://www.sqldbx.com/).</p>
+<p>* Funciona como explorador de servidores(con Sql server,con Mysql,con Oracle,etc) .</p>
+<p>* Editor Avanzado de Scripts con resaltado de sintaxis , autocompletado , Script Variables</p>
+<p>* Genera SELECT&#8217;S, INSERT&#8217;S, UPDATE&#8217;S, DELETE&#8217;S, CREATE&#8217;S, WHERE&#8217;S IN sobre los datos directamente en la grilla de resultados .</p>
+<p>* Soporte completo para Unicode .</p>
+<p>* Importar / Exportar datos a CSV, XML, Excel .</p>
+<p>* De hecho lo que mas me ha impactado,ha sido la capacidad que tiene para generar script completo de una BD (desde la creación de tablas,hasta los inserts y procedimientos almacenados)</p>
+<p>De hecho estoy impresionado con las maravillas que puede hacer esta herramienta .</p>
+<p><img alt="conec" src="https://lh6.googleusercontent.com/-f80OKxttDjk/UZFTrdkdJUI/AAAAAAAABKc/EN67LCzBlnI/w438-h356-no/sql+server+personal.png" /></p>
+<p><img alt="44" src="https://lh5.googleusercontent.com/-srMefQTXEM4/UZFHQJteg6I/AAAAAAAABJ0/l6YdEg4yAqA/w711-h533-no/ScreenShot01.png" /></p>
+<p>…Un saludo desde Perú,hasta la proxima <img src="http://codigoprogramacion.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/articulos/programacionweb/sqldbx-la-llave-maestra-del-dba.html/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Nuevo Blog para ingenieros!</title>
+		<link>http://codigoprogramacion.com/inicio/nuevo-blog-para-ingenieros.html</link>
+		<comments>http://codigoprogramacion.com/inicio/nuevo-blog-para-ingenieros.html#comments</comments>
+		<pubDate>Tue, 07 May 2013 07:18:23 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[loco]]></category>
+		<category><![CDATA[queria]]></category>
+		<category><![CDATA[tenia]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=1024</guid>
+		<description><![CDATA[Ok ahora la verdad creo que si me volvi loco, pero ya tenia tiempo que queria hacer algo así, lo mio sigue siendo la programación pero me gusta divertirme diciendo cosas, así que espero que puedan compartir un poco de esa diversión conmigo, por lo que les dejo el siguiente video. Esto se llama beta13]]></description>
+				<content:encoded><![CDATA[<p>Ok ahora la verdad creo que si me volvi loco, pero ya tenia tiempo que queria hacer algo así, lo mio sigue siendo la programación pero me gusta divertirme diciendo cosas, así que espero que puedan compartir un poco de esa diversión conmigo, por lo que les dejo el siguiente video.</p>
+<p>Esto se llama beta13 y este video es de,</p>
+<h3>Problemas de ser ingeniero</h3>
+<p><object width="560" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube-nocookie.com/v/NQ0hvteND98?hl=en_US&amp;version=3" /><param name="allowfullscreen" value="true" /><embed width="560" height="315" type="application/x-shockwave-flash" src="http://www.youtube-nocookie.com/v/NQ0hvteND98?hl=en_US&amp;version=3" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+<p>Solo quiero resaltar que esto en con propositos de diversión, no se ofendan si no son ingenieros jejej, si les gusta ayudenme a compartir este video o simplemente suscribanse al canal que es <a href="http://youtube.com/beta13net" target="_blank">http://youtube.com/beta13net</a> y twitter seria <a href="http://twitter.com/betajorch" target="_blank">http://twitter.com/betajorch</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/inicio/nuevo-blog-para-ingenieros.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Como tu programador puedes hacer dinero vendiendo codigo por internet</title>
+		<link>http://codigoprogramacion.com/inicio/como-tu-programador-puedes-hacer-dinero-vendiendo-codigo-por-internet.html</link>
+		<comments>http://codigoprogramacion.com/inicio/como-tu-programador-puedes-hacer-dinero-vendiendo-codigo-por-internet.html#comments</comments>
+		<pubDate>Thu, 18 Apr 2013 19:34:59 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Webmaster Tips]]></category>
+		<category><![CDATA[codecanyon]]></category>
+		<category><![CDATA[codigo]]></category>
+		<category><![CDATA[dinero]]></category>
+		<category><![CDATA[envato]]></category>
+		<category><![CDATA[ganar]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[necesito saber]]></category>
+		<category><![CDATA[programando]]></category>
+		<category><![CDATA[themeforest]]></category>
+		<category><![CDATA[vender]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=988</guid>
+		<description><![CDATA[Estaba el otro día platicando con mis unos amigos y comenzamos a hablar de algo que se nos hizo muy interesante, y era buscar formas de como ganar algo de dinero extra por internet pero ademas haciendo lo que sabemos hacer, programar. Y la verdad es que esto es totalmente posible, no solo porque existen]]></description>
+				<content:encoded><![CDATA[<p>Estaba el otro día platicando con mis unos amigos y comenzamos a hablar de algo que se nos hizo muy interesante, y era buscar formas de como <strong>ganar algo de dinero extra por internet</strong> pero ademas haciendo lo que sabemos hacer, <strong>programar</strong>. Y la verdad es que esto es totalmente posible, no solo porque existen sitios de freelancers para buscar trabajo, pero algo mas interesante, es posible vender scripts, codigo, programas hechos por nosotros por internet utilizando las plataformas de una empresa llamada <strong>Envato</strong>. Ademas de Envato cuenta con servicios para vender otro tipo de trabajo, incluyendo plantillas de Photoshop, diseño, proyectos de video, etc, para saber mas visita <a href="http://envato.com/" target="_blank">Envato</a>.</p>
+<p>Por eso les quiero compartir hoy para quienes no lo conocen lo sencillo que es, verán, Envato es una compañía que tiene en su poder sitios de mercado como lo son <a href="http://codecanyon.net/" target="_blank">Codecanyon</a> o <a href="http://themeforest.net/" target="_blank">Themeforest</a>, entre otros, estos sitios se especializan en vender codigo, así que podemos comprar código que necesitemos, o si somos buenos, podemos aplicar como autores y vender scripts de php, javascript, html5, css/css3, plugins de wordpress, temas de wordpress, entre muchas otras cosas.</p>
+<p>Como toda empresa(o la gran mayoria) de este giro, estas plataformas se cobran una comisión, sin embargo ellos deben de evaluar el codigo que subamos para vender, lo evaluan y le asignan un precio, de esta manera no tenemos el problema de saber que precio ponerle a lo que &#8220;codeemos&#8221;, ademas aprovechamos el gran trafico que tienen, puesto que esta empresa no solo tiene un trafico impresionante en muchos países, si no que es una de las empresas que mueven mas dinero en internet.</p>
+<h3>¿Que necesito saber para vender código?</h3>
+<p>Pues realmente necesitas saber programar en alguna de las tecnologías que se comercializan en estas plataformas, puede ser PHP y Javascript, y si sabes de diseño puedes hacer html5 y css3, y si sabes hacer por ejemplo temas o plugins de WordPress, estos se venden muy bien (especialmente los temas de WordPress).</p>
+<h3>¿Cuanto se puede ganar vendiendo código?</h3>
+<p>Increíblemente los mejores autores de codigo según Envato ganan hasta entre 20 y 50 mil dolares mensuales. Si nos tomamos la molestia de tan solo entrar en una categoria de programas y filtrar por lo mas vendido, veremos cifras impresionante, miles y miles de ventas de un solo programa a 5 dolares(por ejemplo), o un tema de wordpress a 50usd(nuevamente un ejemplo), solo hace falta multiplicar alguien que vende 1000 copias de un tema de wordpress a 50 usd, esta haciendo 50 mil dolares, claro estos son casos de exito, pero realmente el &#8220;cuanto puedes ganar&#8221; tiene que ver con la calidad de tus programas, con el numero de programas que subas, y tu reputación como autor.</p>
+<p>Espero que este articulo les haya gustado y que les anime a aprender a programar para monetizarse, yo personalmente a pesar del trabajo pienso probar la plataforma y ver que tal funciona, así que animense y si la prueban y ven resultados comenten aqui que les parece, ¿es buena o no?, hasta la próxima.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/inicio/como-tu-programador-puedes-hacer-dinero-vendiendo-codigo-por-internet.html/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Hashes en Ruby.</title>
+		<link>http://codigoprogramacion.com/cursos/programacion-ruby/hashes-en-ruby.html</link>
+		<comments>http://codigoprogramacion.com/cursos/programacion-ruby/hashes-en-ruby.html#comments</comments>
+		<pubDate>Thu, 18 Apr 2013 19:29:05 +0000</pubDate>
+		<dc:creator><![CDATA[Uriel]]></dc:creator>
+				<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[hash]]></category>
+		<category><![CDATA[hashes]]></category>
+		<category><![CDATA[llaves]]></category>
+		<category><![CDATA[operador]]></category>
+		<category><![CDATA[programacion]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[signa]]></category>
+		<category><![CDATA[tutorial]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=992</guid>
+		<description><![CDATA[Un diccionario es muy parecido a un arreglo, con la diferencia más clara es que tú defines en qué posición se guarda el arreglo. Una aproximación clara de lo que es un hash se da con los diccionarios (por eso puedes llamarlo de las 2 maneras), cuando buscas algo en un diccionario no lo haces]]></description>
+				<content:encoded><![CDATA[<p>Un diccionario es muy parecido a un arreglo, con la diferencia más clara es que tú defines en qué posición se guarda el arreglo. Una aproximación clara de lo que es un hash se da con los diccionarios (por eso puedes llamarlo de las 2 maneras), cuando buscas algo en un diccionario no lo haces a través de números, ni el diccionario está ordenado de manera aleatoria, existe una relación entre el contenido y la posición en la que está guardado.</p>
+<p>Si lo anterior no te queda aún muy claro veamos cómo definir un hash:</p>
+<pre>lenguajes = Hash.new
+lenguajes["ruby"] = "Creado por Matz"
+lenguajes["python"] = "No puntos y coma ni llaves"
+lenguajes["java"] =" Lenguaje compilado"</pre>
+<p>Considero que el ejemplo anterior es bastante explícito, es una de las formas de declarar un hash, como instancia de la clase <strong>Hash</strong>. Vemos cómo asignamos una cadena a un index, cada index es el nombre de un lenguaje y el valor es una característica del lenguaje, si quisiéramos saber algo sobre JAVA, haríamos:</p>
+<pre>puts lenguajes["java"]</pre>
+<p>Mucho más claro y sencillo, además de más rápido que un arreglo, ahora bien, veamos una forma más de declarar un Hash:</p>
+<pre>lenguajes = {'ruby' =&gt; 'Creado por Matz', 'python' =&gt; 'Lenguaje interpretado'}</pre>
+<p>Como puedes ver el index, va seguido del operador <strong>=&gt; </strong>que signa el valor. Al ser igual al ejemplo anterior considero que no hay mucha dificultad para relacionar ambos ejemplos.</p>
+<p>Ahora bien, eso es lo que por ahora necesitas saber sobre los Hashes, sin embargo hay algo muy interesante en Ruby que se conoce como <strong>símbolos</strong>, los símbolos son los objetos más sencillos, sólo tienen un nombre y un id, éste id los identifica, no pueden haber dos símbolos del mismo nombre, ésto es muy interesante porque tú por ejemplo puedes tener dos cadenas así:</p>
+<pre>"Hola mundo"
+"Hola mundo"</pre>
+<p>Pero no dos símbolos así:</p>
+<pre>:hola_mundo
+:hola_mundo</pre>
+<p>En el primer ejemplo, ambas cadenas son <strong>distintas</strong>, en el segundo amos símbolos son <strong>el mismo</strong>. Esto es útil con los hashes porque aumenta la velocidad de los mismos, puesto que Ruby no tiene que estarlos declarando constantemente, con una vez basta, veamos cómo usar símbolos con hashes:</p>
+<pre>lenguajes = Hash.new
+lenguajes[:ruby] = "Creado por Matz"
+lenguajes[:python] = "No puntos y coma ni llaves"
+lenguajes[:java] =" Lenguaje compilado"</pre>
+<p>Muy sencillo, nota como cada símbolo se identifica porque su nombre inicia con <strong>:.</strong></p>
+<p>Con esto terminamos lo que corresponde a hashes, seguramente los usaremos más adelante, así que haz varias pruebas con ellos, de ahora en adelante nos adentraremos en la programación orientada a objetos con Ruby.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/cursos/programacion-ruby/hashes-en-ruby.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Graficadora de funciones cuadradas en Java con Swing</title>
+		<link>http://codigoprogramacion.com/cursos/java/graficadora-de-funciones-cuadradas-en-java-con-swing.html</link>
+		<comments>http://codigoprogramacion.com/cursos/java/graficadora-de-funciones-cuadradas-en-java-con-swing.html#comments</comments>
+		<pubDate>Wed, 17 Apr 2013 04:45:45 +0000</pubDate>
+		<dc:creator><![CDATA[Jorge V.]]></dc:creator>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[borderlayout]]></category>
+		<category><![CDATA[cuadradas]]></category>
+		<category><![CDATA[dibujo]]></category>
+		<category><![CDATA[funciones]]></category>
+		<category><![CDATA[graficar]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[jpanel]]></category>
+		<category><![CDATA[public void]]></category>
+		<category><![CDATA[swing]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=984</guid>
+		<description><![CDATA[Aqui les dejo el codigo y el video tutorial para la graficadora, esta graficadora es muy sencilla, sin embargo para lo que sirve les dejo las 3 clases basicas que la conforman. Para el codigo se recomienda ampliamente tener conocimientos matematicos de funciones cuadradas asi como alguna base de aplicaciones swing en Java. Video tutorial:]]></description>
+				<content:encoded><![CDATA[<p>Aqui les dejo el codigo y el video tutorial para la graficadora, esta graficadora es muy sencilla, sin embargo para lo que sirve les dejo las 3 clases basicas que la conforman.</p>
+<p>Para el codigo se recomienda ampliamente tener conocimientos matematicos de funciones cuadradas asi como alguna base de aplicaciones swing en Java.</p>
+<p>Video tutorial:<br />
+<object width="420" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube-nocookie.com/v/u_6FlolrHb4?hl=es_ES&amp;version=3" /><param name="allowfullscreen" value="true" /><embed width="420" height="315" type="application/x-shockwave-flash" src="http://www.youtube-nocookie.com/v/u_6FlolrHb4?hl=es_ES&amp;version=3" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object><br />
+Codigo fuente:</p>
+<pre class="brush:java">package graficadora;
+
+import javax.swing.*;
+import java.awt.*;
+
+/**
+ *
+ * @author jorge
+ */
+public class Graficadora {
+
+    //Importante, plano debe ser publico y estatico
+    public static plano plano;
+
+    public static void main(String[] args) {
+
+        //Creando la ventana y el plano de dibujo
+        Ventana frame = new Ventana();
+        frame.setDefaultCloseOperation(Ventana.EXIT_ON_CLOSE);
+        frame.setBounds(300, 300, 510, 600);
+        frame.setLayout(new BorderLayout());
+        plano = new plano();
+
+        //Configuración del Boton
+        JButton start = new JButton("Iniciar");
+        start.addActionListener(frame);
+        start.setText("Iniciar");
+
+        //Bordes al panel
+        frame.add( plano, BorderLayout.CENTER);
+        frame.add(start, BorderLayout.SOUTH);
+
+        frame.setVisible( true );
+
+    }
+}</pre>
+<p>&nbsp;</p>
+<pre class="brush:java">package graficadora;
+import java.awt.Color;
+import java.awt.Graphics;
+import javax.swing.BorderFactory;
+import javax.swing.JPanel;
+/**
+ *
+ * @author jorge
+ */
+public class plano extends JPanel{
+
+    public plano() {
+        init();
+    }
+
+    public void init() {
+        this.setBorder(BorderFactory.createLineBorder(Color.black));
+    }
+
+    @Override 
+     public void paintComponent( Graphics g ) {
+                    super.paintComponent(g);
+
+                    g.setColor(Color.red);
+
+                    g.drawLine(0, this.getHeight()/2, this.getWidth(), this.getHeight()/2);
+                    g.drawLine(this.getWidth()/2, 0,this.getWidth()/2 , this.getHeight());
+
+                 }
+
+    // y=c*x2 +c*x +c
+
+     public void paintSQRFunc(Graphics g, double x2mult,
+             double x1mult,double cons, double x1,double x2)
+     {
+
+         for(double i=x1;i&lt;x2;i++)
+         {
+             double y = ((double)Math.pow(i,2)*x2mult)+i*x1mult+cons;
+             double xp = i+1;
+             double yp = ((double)Math.pow(xp,2)*x2mult)+xp*x1mult+cons;
+             g.drawLine((int)coord_x(i), (int)coord_y(y), (int)coord_x(xp), (int)coord_y(yp));
+
+         }
+     }
+
+     private double coord_x(double x)
+     {
+         double real_x = x+this.getWidth()/2;
+        return real_x;
+     }
+     private double coord_y(double y)
+     {
+          double real_y = -y+this.getHeight()/2;
+
+          return (real_y);
+     }
+}</pre>
+<p>&nbsp;</p>
+<pre class="brush:java">package graficadora;
+import java.awt.event.ActionEvent;
+import javax.swing.*;
+import java.awt.event.ActionListener;
+import graficadora.Graficadora;
+/**
+ *
+ * @author jorge
+ */
+public class Ventana extends JFrame implements ActionListener{
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+
+       Graficadora.plano.paintSQRFunc(Graficadora.plano.getGraphics(),-0.2,2,-15,-200,200);
+    }
+
+}</pre>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/cursos/java/graficadora-de-funciones-cuadradas-en-java-con-swing.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Operaciones usando arreglos con Ruby</title>
+		<link>http://codigoprogramacion.com/cursos/programacion-ruby/operaciones-usando-arreglos-con-ruby.html</link>
+		<comments>http://codigoprogramacion.com/cursos/programacion-ruby/operaciones-usando-arreglos-con-ruby.html#comments</comments>
+		<pubDate>Tue, 16 Apr 2013 17:33:55 +0000</pubDate>
+		<dc:creator><![CDATA[Uriel]]></dc:creator>
+				<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[array]]></category>
+		<category><![CDATA[arreglos]]></category>
+		<category><![CDATA[esto]]></category>
+		<category><![CDATA[imprimimos]]></category>
+		<category><![CDATA[itera]]></category>
+		<category><![CDATA[programa]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[tutorial]]></category>
+
+		<guid isPermaLink="false">http://codigoprogramacion.com/?p=972</guid>
+		<description><![CDATA[Los arreglos tienen utilidad en muchísimas aplicaciones, en el artículo anterior vimos cómo definirlos en Ruby, y en éste veremos algunas operaciones básicas utilizando arreglas, todas éstas provenientes del Kernel de Ruby. La primera operación que querrás ejecutar sobre un arreglo, seguramente será la de recorrerlo, es decir, ir a través de todos sus elementos,]]></description>
+				<content:encoded><![CDATA[<p>Los arreglos tienen utilidad en muchísimas aplicaciones, en el artículo anterior vimos cómo definirlos en Ruby, y en éste veremos algunas operaciones básicas utilizando arreglas, todas éstas provenientes del Kernel de Ruby.</p>
+<p>La primera operación que querrás ejecutar sobre un arreglo, seguramente será la de recorrerlo, es decir, ir a través de todos sus elementos, ya sea para usarlos o para buscar algún elemento.</p>
+<p>Mi ciclo de recorrido favorito en Ruby, es el que se ejecuta a través del método each, éste método pertenece a la clase Array en Ruby, lo que significa que todos los arreglos lo tienen. Cabe mencionar que hay varias formas de recorrer arreglos en Ruby además de las que veremos (un par), luego de haber dicho ésto veamos el ejemplo:</p>
+<pre>lenguajes = ["Ruby","Python","JAVA","javaScript"]
+lenguajes.each do |lenguaje|
+  puts lenguaje
+end</pre>
+<p>Lo que me gusta acerca de each es lo claro de la sintaxis, es decir, a simple vista puedes ver cómo funciona el método. Si aún hay cosas que no te quedan claras, te explico. El método each se aplica sobre el arreglo, en el ejemplo, nuestro arreglo es <strong>lenguajes</strong>, y se manda un <strong>bloque</strong> (ojo con esto), este bloque itera cada elemento dentro del arreglo y lo almacena sobre la variable <strong>lenguaje</strong>, es decir, en cada iteración, el elemento actual está en lenguaje, por eso si ejecutas lo anterior verás como con <strong>puts</strong>, imprimimos cada cadena del arreglo.</p>
+<p>Lo anterior, fue algo bastante del estilo Ruby, si quieres algo más convencional podrías recorrer el arreglo con un ciclo <strong>for in</strong>, veamos el ejemplo:</p>
+<pre>for i in lenguajes
+  puts i
+end</pre>
+<p>Como ves, esto es algo más parecido a lenguajes comunes como JAVA, <strong>i</strong> es la variable que toma el valor dentro del arreglo, que en este ejemplo retomamos el anterior arreglo <strong>lenguajes</strong>. Sencillo ¿no?<strong><br />
+</strong></p>
+<p>Veamos ahora algo un poco más complicado. Lo que veremos es el método map, que también es parte de la clase Array. Map, itera cada uno de los elementos, le aplica las modificaciones que tú definas en un bloque, y retorna un nuevo arreglo con las modificaciones, aquí el ejemplo:</p>
+<pre>lenguajes = ["python","ruby","java"] #todos minusculas
+nuevoArreglo = lenguajes.map{|lenguaje| lenguaje.capitalize}
+nuevoArreglo.each do |l|
+   puts l
+end</pre>
+<p>Te invito a que pruebes el anterior ejemplo en tu instalación de Ruby, lo que verás es cómo cada uno de los elementos en lenguaje se pasan a <strong>nuevoArreglo</strong>, pero con la primera letra en mayúsucula (por el método <strong>capitalize</strong>), como verás, map también se ejecuta con un bloque, ésta vez delimitado por <strong>{}</strong>, adentro definimos una variable para almacenar cada iteración del arreglo, llamada <strong>lenguaje</strong>, y luego modificamos la variable, en éste ejemplo colocamos la primera letra en mayúscula, genial ¿no?</p>
+<p>Lo anterior puede que haya sido un poco complejo si estás iniciando a programar, no te preocupes si no te quedó del todo claro, te aseguro que en el momento en que requieras una operación como la anterior, podrás venir aquí y todo quedará más claro.</p>
+<p>Existen muchísimas otras operaciones que se pueden ejecutar con arreglos, por ejemplo ordenarlo:</p>
+<pre>calificaciones = [10,8,6,9]
+calificaciones.sort</pre>
+<p>Obtener el tamaño del arreglo:</p>
+<pre>calificaciones.size()</pre>
+<p>Y así podríamos seguir mencionando otros, pero para no complicar más el curso básico, lo dejaremos ahí por ahora.</p>
+<p>Bien, por ahora dejaremos los arreglos para que en el siguiente artículo pasemos a ver los Hashes o Diccionarios.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://codigoprogramacion.com/cursos/programacion-ruby/operaciones-usando-arreglos-con-ruby.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
