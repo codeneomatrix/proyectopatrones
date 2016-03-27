@@ -16,7 +16,7 @@ public class test {
     public static void main(String[]args){
      Descarga d=new Descarga();
      //d.getRSSfromURL("http://marca.feedsportal.com/rss/futbol_1adivision.xml");
-     d.getRSSfromURL("http://www.eluniversal.com.mx/rss/mexico.xml");
+     d.getRSSfromURL("http://www.eluniversal.com.mx/rss/computo.xml");
      
      //String cad=leer();
      //System.out.println(cad);
