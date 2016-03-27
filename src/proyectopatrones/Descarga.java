@@ -36,6 +36,7 @@ public class Descarga {
              while ((bytesAEscribir = entrada.read(buffer))>0)
              {
                  fileOut.write(buffer,0,bytesAEscribir);
+                 
              }
              entrada.close();
              fileOut.close();
