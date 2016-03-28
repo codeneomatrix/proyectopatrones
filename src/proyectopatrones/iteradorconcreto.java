@@ -51,7 +51,7 @@ public class iteradorconcreto implements iiterador{
     
     @Override
     public String getKey(){
-        return "key_"+_posicion;
+        return "key_"+_posicion++;
     }
     
     @Override

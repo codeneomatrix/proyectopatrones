@@ -88,7 +88,7 @@ public class paneldinamico extends JPanel implements ActionListener {
                 JOptionPane.showMessageDialog(null, "Se presiono boton " + itm + " \n Hola ");
                 openURL("http://www.eluniversal.com.mx/computacion-tecno/2015/visto-imagenes-iphone-6s-107889.html");
             }
-        elemento entry = (elemento)it.next();
+        //elemento entry = (elemento)it.next();
      
         }
     }
