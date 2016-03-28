@@ -6,9 +6,12 @@ import java.awt.Container;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.BorderFactory;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
@@ -16,9 +19,11 @@ import javax.swing.JScrollPane;
 
 public class paneldinamico extends JPanel implements ActionListener {
 
+    private int maxnoticias=5;
     private int index = 1;
     //Nos sirve para almacenar a los objetos creados
-    private Map nota = new HashMap();
+    private vectorcomponentes nota = new vectorcomponentes(maxnoticias);
+    
      private Container c;
     private JScrollPane jScrollPane1 = new javax.swing.JScrollPane();
     private JPanel amostrar = new javax.swing.JPanel();
@@ -39,38 +44,52 @@ public class paneldinamico extends JPanel implements ActionListener {
         
     public void Mi_Componente()
     {        
-        //instancia nueva a componente
+        if(index<maxnoticias){
         elemento jpc = new elemento(index);
-        jpc.jLabel1.setText(""+index);
-        jpc.jButton2.addActionListener(this);//escucha eventos
-        this.add(jpc);//se añade al jpanel
-        System.out.println("ceando esta schingaderas!!!!!!!!!!!");
+        jpc.jLabel1.setText(" Lo mï¿½s visto: Filtran imï¿½genes del iPhone 6S");
+        jpc.jLabel2.setText("Muestran varias imï¿½genes en las que se aprecian diversas caracterï¿½sticas del nuevo terminal de Apple");
+        jpc.jButton2.addActionListener(this);
+        this.add(jpc);
         this.validate();
-        //se añade al MAP
-        this.nota.put("key_" + index, jpc );
-        //se incrementa contador de componentes
+        
+        this.nota.colocar(index,jpc );
         index++;
+        }
         
         
     }
+    
+     public static void openURL(String url) {
+        String osName = System.getProperty("os.name");
+        try {
+            if (osName.startsWith("Windows")) {
+                Runtime.getRuntime().exec("rundll32 url.dll,FileProtocolHandler " + url);
+            } else if (osName.startsWith("Mac OS X")) {
+                // Runtime.getRuntime().exec("open -a safari " + url);
+                // Runtime.getRuntime().exec("open " + url + "/index.html");
+                Runtime.getRuntime().exec("open " + url);
+            } else {
+                System.out.println("Please open a browser and go to "+ url);
+            }
+        } catch (IOException e) {
+            System.out.println("Failed to start a browser to open the url " + url);
+            e.printStackTrace();
+        }
+    }
 
     public void actionPerformed(ActionEvent e) {
-        //se obtiene el comando ejecutado
+        
         String comando = e.getActionCommand();
-        //se recorre el MAP
-        Iterator it = nota.entrySet().iterator();
-        while (it.hasNext()) {
-            Map.Entry entry = (Map.Entry)it.next();
-            //se obtiene el KEY -> identificador unico
-            String itm = entry.getKey().toString();
-            //si comando de componente es igual a comando pulsado
-            if( itm.equals(comando))
+        iiterador it = nota.creariterador();
+        while (it.hasNext()) {            
+            String itm = it.getKey();
+             if( itm.equals(comando))
             {
-                //se recupera el contenido del JTextfield
-                
-                //mostramos resultado
                 JOptionPane.showMessageDialog(null, "Se presiono boton " + itm + " \n Hola ");
+                openURL("http://www.eluniversal.com.mx/computacion-tecno/2015/visto-imagenes-iphone-6s-107889.html");
             }
+        elemento entry = (elemento)it.next();
+     
         }
     }
 
