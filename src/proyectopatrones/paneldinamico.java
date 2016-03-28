@@ -59,26 +59,10 @@ public class paneldinamico extends JPanel implements ActionListener {
         
     }
     
-     public static void openURL(String url) {
-        String osName = System.getProperty("os.name");
-        try {
-            if (osName.startsWith("Windows")) {
-                Runtime.getRuntime().exec("rundll32 url.dll,FileProtocolHandler " + url);
-            } else if (osName.startsWith("Mac OS X")) {
-                // Runtime.getRuntime().exec("open -a safari " + url);
-                // Runtime.getRuntime().exec("open " + url + "/index.html");
-                Runtime.getRuntime().exec("open " + url);
-            } else {
-                System.out.println("Please open a browser and go to "+ url);
-            }
-        } catch (IOException e) {
-            System.out.println("Failed to start a browser to open the url " + url);
-            e.printStackTrace();
-        }
-    }
+     
 
     public void actionPerformed(ActionEvent e) {
-        
+        navega nnv = new crearnavegador().obtenernavegador("windows");
         String comando = e.getActionCommand();
         iiterador it = nota.creariterador();
         while (it.hasNext()) {            
@@ -86,7 +70,8 @@ public class paneldinamico extends JPanel implements ActionListener {
              if( itm.equals(comando))
             {
                 JOptionPane.showMessageDialog(null, "Se presiono boton " + itm + " \n Hola ");
-                openURL("http://www.eluniversal.com.mx/computacion-tecno/2015/visto-imagenes-iphone-6s-107889.html");
+                nnv.colocarurl("http://www.eluniversal.com.mx/computacion-tecno/2015/visto-imagenes-iphone-6s-107889.html");
+                nnv.openURL();
             }
         //elemento entry = (elemento)it.next();
      
