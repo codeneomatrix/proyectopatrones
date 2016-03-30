@@ -40,7 +40,9 @@ public class paneldinamico extends JPanel implements ActionListener {
         
     }
 
-    
+    public void prueba(){
+         JOptionPane.showMessageDialog(null, "DEsde maven!!!!!!!!!!!!! ");
+    }
         
     public void Mi_Componente()
     {        
@@ -54,6 +56,10 @@ public class paneldinamico extends JPanel implements ActionListener {
         
         this.nota.colocar(index,jpc );
         index++;
+        }else{
+            this.removeAll(); 
+            this.repaint(); 
+            index=1;
         }
         
         
