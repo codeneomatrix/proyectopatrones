@@ -30,6 +30,8 @@ public class Descarga {
              entrada = conexion.getInputStream();
              xml = new File("rss.xml");
              fileOut = new FileOutputStream(xml);
+             StringBuilder out = new StringBuilder();
+             String line;
 
              int bytesAEscribir;
              buffer = new byte[bufferSize];
