@@ -24,7 +24,7 @@ public class ObservadorDeportes implements Observador{
     @Override
     public void actualizar() {
         CrearXML n=new CrearXML();
-        Document d=n.getNoticias();
+        Document d=n.getDeportes();
 
         try{
             // new XMLOutputter().output(doc, System.out);
@@ -32,12 +32,12 @@ public class ObservadorDeportes implements Observador{
 
 		// display nice nice
 		xmlOutput.setFormat(Format.getPrettyFormat());
-		xmlOutput.output(d, new FileWriter("file.xml"));
+		xmlOutput.output(d, new FileWriter("server/dep.xml"));
 
 		System.out.println("File Saved!");
         }
         catch(Exception e){
-
+            e.printStackTrace();
         }
 
     }

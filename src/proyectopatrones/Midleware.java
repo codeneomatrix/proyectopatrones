@@ -48,7 +48,7 @@ public class Midleware implements Sujeto{
              }
          }
      }
-     if(inte==3){
+     if(inte==2){
          for(int i=0;i<observadores.size();i++){
              Observador ob=observadores.get(i);
              if(ob instanceof ObservadorTecnologia){
@@ -114,13 +114,13 @@ public class Midleware implements Sujeto{
 
 
 
-        Connection connection = GetConnection.getConnection();
+        //Connection connection = GetConnection.getConnection();
 
-      Statement stmt = connection.createStatement();
+      //Statement stmt = connection.createStatement();
       
       String s="INSERT INTO "+p+"(guid,titulo,descripcion,link,pubdate) VALUES(\'"+guid+"\',\'"+titulo+"\',\'"+des+"\',\'"+link+"\',\'"+pubDate+"\')";
       System.out.println(s);
-      stmt.executeUpdate(s);
+      //stmt.executeUpdate(s);
 
 
 
@@ -131,4 +131,17 @@ catch(Exception e){
     }
         notificarObservadores(interes);
   }
+    public static void main(String []args){
+        Midleware mi=(Midleware)new Midleware();
+        Observador dep=new ObservadorDeportes(mi);
+        Observador not=new ObservadorNoticias(mi);
+        Observador tec=new ObservadorTecnologia(mi);
+        /*for(int i =0;i<mi.observadores.size();i++){
+            Observador o=mi.observadores.get(i);
+            System.out.println(o.getClass());
+        }*/
+        mi.insertarADB("/home/subzero/Desktop/depor.xml",1);
+        
+    
+    }
 }
