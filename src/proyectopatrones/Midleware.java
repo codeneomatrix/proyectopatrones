@@ -81,6 +81,7 @@ public class Midleware implements Sujeto{
       if(interes==3){
         p=p+"noticias";
       }
+      if(fi.length()>4 && (interes >0 && interes<4)){
   SAXBuilder builder = new SAXBuilder();
     File xmlFile = new File(fi);
     try{
@@ -95,8 +96,7 @@ public class Midleware implements Sujeto{
     List list = (canal.getChildren("item"));
 
     //Se recorre la lista de hijos de 'tables'
-    for ( int i = 0;i< list.size(); i++ )
-    {
+    for ( int i = 0;i< list.size(); i++ ){
         //Se obtiene el elemento 'tabla'
         Element item = (Element) list.get(i);
 
@@ -114,22 +114,24 @@ public class Midleware implements Sujeto{
 
 
 
-        //Connection connection = GetConnection.getConnection();
+        Connection connection = GetConnection.getConnection();
 
-      //Statement stmt = connection.createStatement();
+      Statement stmt = connection.createStatement();
       
       String s="INSERT INTO "+p+"(guid,titulo,descripcion,link,pubdate) VALUES(\'"+guid+"\',\'"+titulo+"\',\'"+des+"\',\'"+link+"\',\'"+pubDate+"\')";
       System.out.println(s);
-      //stmt.executeUpdate(s);
+      stmt.executeUpdate(s);
+    }
 
 
 
     }
-}
+
 catch(Exception e){
       e.printStackTrace();
     }
         notificarObservadores(interes);
+      }
   }
     public static void main(String []args){
         Midleware mi=(Midleware)new Midleware();
