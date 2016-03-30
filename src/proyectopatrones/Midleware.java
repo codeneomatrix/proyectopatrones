@@ -6,11 +6,10 @@
 package proyectopatrones;
 import java.sql.*;
 import java.io.*;
-import java.io.IOException;
+
 import java.util.List;
 import org.jdom.Document;         // |
 import org.jdom.Element;          // |\ Librerías
-import org.jdom.JDOMException;    // |/ JDOM
 import org.jdom.input.SAXBuilder;
 import java.util.ArrayList;
 
@@ -23,10 +22,8 @@ public class Midleware implements Sujeto{
     private ArrayList<Observador> observadores;
 
 
-
     Midleware(){
         observadores=new ArrayList();
-        
     }
 
     @Override
@@ -36,26 +33,37 @@ public class Midleware implements Sujeto{
 
     @Override
     public void removerObservador(Observador O) {
-        int i=observadores.indexOf(O);
-        if(i>0){
-            observadores.remove(i);
+        if(observadores.size()>0){
+            observadores.remove(O);
         }
     }
 
     @Override
-    public void notificarObservadores(int i){
-      if(i==1){
-        Observador o=observadores.get(0);
-        o.actualizar();
-      }
-      if(i==2){
-        Observador o=observadores.get(1);
-        o.actualizar();
-      }
-      if(i==3){
-        Observador o=observadores.get(2);
-        o.actualizar();
-      }
+    public void notificarObservadores(int inte){
+     if(inte==1){
+         for(int i=0;i<observadores.size();i++){
+             Observador ob=observadores.get(i);
+             if(ob instanceof ObservadorDeportes){
+                 ob.actualizar();
+             }
+         }
+     }
+     if(inte==3){
+         for(int i=0;i<observadores.size();i++){
+             Observador ob=observadores.get(i);
+             if(ob instanceof ObservadorTecnologia){
+                 ob.actualizar();
+             }
+         }
+     }
+     if(inte==3){
+         for(int i=0;i<observadores.size();i++){
+             Observador ob=observadores.get(i);
+             if(ob instanceof ObservadorNoticias){
+                 ob.actualizar();
+             }
+         }
+     }
 
     }
 
