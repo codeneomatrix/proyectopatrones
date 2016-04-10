@@ -9,7 +9,7 @@ import java.net.URL;
 public class Descarga {
 
 
-     public  String getRSSfromURL(String url)
+     public  String getRSSfromURL(String url,String nombre)
      {
          HttpURLConnection conexion;
          URL miUrl;
@@ -28,7 +28,7 @@ public class Descarga {
              conexion.connect();
 
              entrada = conexion.getInputStream();
-             xml = new File("rss.xml");
+             xml = new File(nombre+".xml");
              fileOut = new FileOutputStream(xml);
              StringBuilder out = new StringBuilder();
              String line;

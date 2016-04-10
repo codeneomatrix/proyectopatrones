@@ -7,7 +7,11 @@
 
 import java.awt.BorderLayout;
 import java.awt.Container;
+import java.io.IOException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JScrollPane;
+import org.jdom.JDOMException;
 
 /**
  *
@@ -16,10 +20,10 @@ import javax.swing.JScrollPane;
 public class cliente extends javax.swing.JFrame {
 
    
-    paneldinamico mi_panel =new paneldinamico();
-    public cliente() {
+    paneldinamico mi_panel;
+    public cliente(String[] aspectos) {
         initComponents();
-        
+        mi_panel =new paneldinamico(aspectos);
          //se añade componente al JFrame
         amostrar.add(mi_panel);
        //jScrollPane1.setViewportView(mi_panel);
@@ -109,7 +113,13 @@ public class cliente extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
                                               
-        mi_panel.Mi_Componente();
+        try {
+            mi_panel.Mi_Componente();
+        } catch (JDOMException ex) {
+            Logger.getLogger(cliente.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(cliente.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
