@@ -3,14 +3,15 @@ package proyectopatrones;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.MalformedURLException;
+import org.jdom.JDOMException;
 
 public class crearcliente {
    
     
-    cliente uno= new cliente();
+    cliente uno;
     
-    crearcliente(){
-    //registar clientes post
+    crearcliente(String[] aspectos){
+      uno= new cliente(aspectos);
     }
     public void registrar(String[] aspectos) throws MalformedURLException, UnsupportedEncodingException, IOException{
         //peticionpost post = new peticionpost ("http://192.168.1.12/addUser/post");
@@ -20,9 +21,9 @@ public class crearcliente {
         post.add("mail", "algo@gmail.com");
         String s="";
         for(int i=0; i<aspectos.length;i++){
-            if(aspectos[i].equals("tecnologia")) s+="1";
-            if(aspectos[i].equals("deportes")) s+="2";
-            if(aspectos[i].equals("noticias")) s+="3";
+            if(aspectos[i].equals("Tecnologia")) s+="1";
+            if(aspectos[i].equals("Deportes")) s+="2";
+            if(aspectos[i].equals("Noticias")) s+="3";
             if(i<aspectos.length-1)s+=",";
         }
         //System.out.println("intereses "+s);
@@ -34,18 +35,14 @@ public class crearcliente {
 
    
     
-    public void descargar(){
-         Descarga d1 = new Descarga();
-        
-        //d1.getRSSfromURL("http://codigoprogramacion.com/feed");
-    }
+   
     public void grafica() {
      
      uno.setVisible(true);
     }
     
     
-    public void actualizar(){
+    public void actualizar() throws JDOMException, IOException{
         uno.mi_panel.Mi_Componente();
     }
 }
